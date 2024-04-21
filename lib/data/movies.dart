@@ -262,7 +262,7 @@ class MovieList {
       "Released": "01 Aug 2014",
       "Runtime": "42 min",
       "Genre": "Action, Crime, Drama",
-      "Director": "N/A",
+      "Director": "Awesome Director",
       "Writer": "Bruno Heller",
       "Actors": "Ben McKenzie, Donal Logue, David Mazouz, Sean Pertwee",
       "Plot":
